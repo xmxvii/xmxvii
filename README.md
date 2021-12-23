@@ -1,21 +1,17 @@
 ### Hi there 👋
 <div>
-  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
     <img alt="Rust" src="https://img.shields.io/badge/Rust-443330?style=plastic&logo=rust&logoColor=white" />
     <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" />
-</div>
-
-<div>
-    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+      <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
 </div>
 
 <div>
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
     <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
