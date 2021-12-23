@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+
+<h2>Languages & Tools</h2>
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
