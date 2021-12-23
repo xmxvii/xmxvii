@@ -23,7 +23,7 @@
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
 
-
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmxvii&layout=compact&langs_count=8&theme=tokyonight)
-[Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmxvii&theme=tokyonight)
-
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmxvii&theme=tokyonight)
+</div>
