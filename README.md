@@ -12,6 +12,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
 </div>
 
+![](https://komarev.com/ghpvc/?username=xmxvii&style=flat)
+
 <div align="center">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
     <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
@@ -28,6 +30,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmxvii&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmxvii&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-![](https://hit.yhype.me/github/profile?user_id=35613226)
-![](https://komarev.com/ghpvc/?username=xmxvii&style=flat)
