@@ -21,9 +21,9 @@
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</div>
+    <img alt="viewcount" src="https://komarev.com/ghpvc/?username=xmxvii&style=flat" />
 
-![](https://komarev.com/ghpvc/?username=xmxvii&style=flat)
+</div>
 
 <br>
 
