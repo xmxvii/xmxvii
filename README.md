@@ -12,7 +12,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=xmxvii&style=flat)
 
 <div align="center">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
@@ -23,6 +22,8 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=xmxvii&style=flat)
 
 <br>
 
